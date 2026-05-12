@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  /* 响应式断点 */
+  --breakpoint-xs: 360px;
+
+  /* 校色系统 */
+  --color-primary: #3B82F6;
+  --color-primary-hover: #2563EB;
+  --color-primary-light: rgba(59, 130, 246, 0.1);
+  --color-secondary: #0EA5E9;
+  --color-secondary-hover: #0284C7;
+  --color-secondary-light: rgba(14, 165, 233, 0.1);
+  --color-accent: #F59E0B;
+  --color-accent-hover: #D97706;
+  --color-accent-light: rgba(245, 158, 11, 0.1);
+  --color-success: #059669;
+  --color-success-hover: #047857;
+  --color-success-light: rgba(16, 185, 129, 0.1);
+  --color-danger: #DC2626;
+  --color-danger-hover: #B91C1C;
+  --color-danger-light: rgba(220, 38, 38, 0.1);
+  --color-info: #6366F1;
+  --color-info-hover: #4F46E5;
+  --color-info-light: rgba(99, 102, 241, 0.1);
+
+  /* 中性色 */
+  --color-bg: #F8FAFC;
+  --color-surface: #FFFFFF;
+  --color-surface-alt: #F1F5F9;
+  --color-border: #E2E8F0;
+  --color-border-strong: #CBD5E1;
+  --color-text-primary: #1E293B;
+  --color-text-secondary: #64748B;
+  --color-text-disabled: #94A3B8;
+
+  /* 深色模式（管理后台用） */
+  --color-dark-bg: #0F172A;
+  --color-dark-surface: #1E293B;
+  --color-dark-border: #334155;
+  --color-dark-text: #F1F5F9;
+  --color-dark-text-secondary: #94A3B8;
+
+  /* 字体 */
+  --font-sans: 'HarmonyOS Sans', 'MiSans Latin', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --font-display: 'LXGW WenKai', 'Noto Serif SC', serif;
+  --font-mono: 'HarmonyOS Sans', 'SF Mono', 'Roboto Mono', monospace;
+
+  /* 圆角 */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+
+  /* 阴影 */
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
+  --shadow-card-hover: 0 4px 12px rgba(0, 0, 0, 0.08), 0 2px 4px rgba(0, 0, 0, 0.04);
+  --shadow-dropdown: 0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.05);
+  --shadow-nav: 0 1px 0 rgba(0, 0, 0, 0.05);
+}

@@ -1,0 +1,115 @@
+/* HarmonyOS Sans SC */
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: url('@/assets/fonts/HarmonyOS_Sans_SC_Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: url('@/assets/fonts/HarmonyOS_Sans_SC_Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: url('@/assets/fonts/HarmonyOS_Sans_SC_Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: url('@/assets/fonts/HarmonyOS_Sans_SC_Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: url('@/assets/fonts/HarmonyOS_Sans_SC_Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'HarmonyOS Sans';
+  src: url('@/assets/fonts/HarmonyOS_Sans_SC_Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* MiSans Latin */
+@font-face {
+  font-family: 'MiSans Latin';
+  src: url('@/assets/fonts/MiSansLatin-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'MiSans Latin';
+  src: url('@/assets/fonts/MiSansLatin-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'MiSans Latin';
+  src: url('@/assets/fonts/MiSansLatin-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'MiSans Latin';
+  src: url('@/assets/fonts/MiSansLatin-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'MiSans Latin';
+  src: url('@/assets/fonts/MiSansLatin-Normal.ttf') format('truetype');
+  font-weight: 450;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'MiSans Latin';
+  src: url('@/assets/fonts/MiSansLatin-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'MiSans Latin';
+  src: url('@/assets/fonts/MiSansLatin-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'MiSans Latin';
+  src: url('@/assets/fonts/MiSansLatin-Demibold.ttf') format('truetype');
+  font-weight: 650;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'MiSans Latin';
+  src: url('@/assets/fonts/MiSansLatin-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'MiSans Latin';
+  src: url('@/assets/fonts/MiSansLatin-Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
