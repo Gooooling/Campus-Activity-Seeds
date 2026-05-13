@@ -60,7 +60,7 @@ cd frontend  ->  npm install  ->  npm run build  ->  npm run dev
 
 ## 演示视频
 
-> 在哔哩哔哩上。
+> 放在哔哩哔哩上。
 
 ## 许可证
 
