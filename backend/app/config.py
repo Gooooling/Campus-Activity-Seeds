@@ -16,9 +16,9 @@ class Settings(BaseSettings):
 
     OPENAI_BASE_URL: str
     OPENAI_API_KEY: str
-    OPENAI_MODEL_NAME: str 
+    OPENAI_MODEL_NAME: str #
 
-    UPLOAD_MAX_SIZE_MB: int = 10
+    UPLOAD_MAX_SIZE_MB: int = 10 #文件上传最大限制，单位MB
 
     # CORS 来源，逗号分隔
     CORS_ORIGINS: str = "http://localhost:5173,http://localhost:5174"
