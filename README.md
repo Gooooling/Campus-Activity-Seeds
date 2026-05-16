@@ -59,16 +59,12 @@ uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 cd frontend  ->  npm install  ->  npm run dev
 
 ## 演示视频
-[![演示视频]](https://www.bilibili.com/video/BV1Pw5R6hEFo)
+[![查看演示视频以及作者的哔哩哔哩联系方式点这里]](https://www.bilibili.com/video/BV1Pw5R6hEFo)
 > 视频放在哔哩哔哩上了。
 
 ## 许可证
 
 本项目采用 AGPL-3.0 许可证，并附加 **校园豁免条款 (Campus Exception)：**
-
-- **个人/开源社区**：可免费使用、修改、部署等，无特殊情况需要保持开源，遵守AGPL-3.0许可证。（特殊情况指修改后在学校内进行部署等，为同学服务。如有敏感/隐私/非公开/需保密数据，需注意不要放在开源代码里）
-- **教育机构（大中小学及校内社团）**：可在校内非商业使用，有权保持修改后的代码闭源。
-- **商业公司/第三方厂商**：闭源商用或 SaaS 部署等需购买商业许可证。
 > *完整详见许可证文件（LICENSE.md）*
 
 ## 改配置的文件
