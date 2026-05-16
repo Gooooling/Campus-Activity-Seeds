@@ -83,7 +83,6 @@
 ---
 
 ## 附：GNU AFFERO GENERAL PUBLIC LICENSE Version 3
-*（以下为 AGPL-3.0 完整原文，实际发布时请完整保留）*
 
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
