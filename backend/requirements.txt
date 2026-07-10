@@ -9,4 +9,4 @@ bcrypt==5.0.0
 openai==2.26.0
 alembic==1.18.4
 apscheduler==3.11.0
-joserfc==1.6.4
+joserfc==1.6.8
